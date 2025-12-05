@@ -93,7 +93,7 @@ a:hover {
     overflow-y: auto;
     border-left: 2px dashed black;
     min-height: 100vh;
-    background-image: url('/наташа/лабораторная 5/img/Снимок\ экрана\ 2025-11-22\ 141706.png');
+    background-image: url('img/Снимок\ экрана\ 2025-11-22\ 141706.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -108,3 +108,4 @@ footer {
     margin-top: 2rem;
     text-align: center;
 }
+
